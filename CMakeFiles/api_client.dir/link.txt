@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++17 -lcurl CMakeFiles/api_client.dir/main.cpp.o CMakeFiles/api_client.dir/FormMultiPart.cpp.o -o api_client  -lcurl

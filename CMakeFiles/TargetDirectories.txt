@@ -1,0 +1,3 @@
+/home/white-inside/CLionProjects/api_client/CMakeFiles/api_client.dir
+/home/white-inside/CLionProjects/api_client/CMakeFiles/edit_cache.dir
+/home/white-inside/CLionProjects/api_client/CMakeFiles/rebuild_cache.dir
